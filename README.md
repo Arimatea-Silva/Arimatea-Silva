@@ -1,4 +1,4 @@
-<b>Welcome! My name Arimate Silva and I start to learn coding</b>
+<b>Welcome! My name Arimate Silva and I'm starting to learn coding</b>
 
 - 👋 Hi, I’m @Arimatea-Silva
 - 👀 I’m interested in web development and data analysis
