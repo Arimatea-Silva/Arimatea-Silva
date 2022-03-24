@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Arimatea-Silva
 - 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently learning front-end and back-end
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me arimatea.silva.jr@gmail.com or also <a href="https://www.linkedin.com/in/jos%C3%A9-de-arimat%C3%A9a-da-silva-junior-82b152123/">LinkedIn</a>
 
 <!---
