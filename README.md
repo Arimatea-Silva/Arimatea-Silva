@@ -1,23 +1,100 @@
-<h1 align="center">Hi 👋, I'm Arimatea Júnior</h1>
-<h3 align="center">Enthusiast of ​​technology, innovation and data analysis</h3><br>
+<div align="center">
 
-- 🌱 I’m currently learning **Causal inference**
+# Arimatea Júnior
+### Data Analyst · Power BI Developer · IT Consultant
 
-- 💬 Ask me about **Power BI**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arimatea--silva--jr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arimatea-silva-jr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-arimateasilva-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/arimateasilva)
+[![Email](https://img.shields.io/badge/Email-arimatea.silva.jr@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arimatea.silva.jr@gmail.com)
 
-- 📫 How to reach me **arimatea.silva.jr@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arimatea-silva-jr/](https://www.linkedin.com/in/arimatea-silva-jr/)
+---
 
-- ⚡ Fun fact **I moved to Portugal and I'm learning to play Padel**
+## About me
 
-<br><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jrarimatea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrarimatea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arimatea-silva-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arimatea-silva-jr" height="30" width="40" /></a>
-<a href="https://kaggle.com/arimateasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arimateasilva" height="30" width="40" /></a>
-<a href="https://instagram.com/ariamtea_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariamtea_silva" height="30" width="40" /></a>
-</p>
+IT Consultant and Data Analyst with 6+ years of experience delivering Business Intelligence solutions and process automation in multinational environments — financial services, manufacturing, and IT consulting.
 
-<br><h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 📊 Specialized in **Power BI**, **DAX**, **Power Query M**, and **Excel VBA**
+- 🎯 Focused on solutions that drive operational efficiency and support executive decision-making
+- 🌱 Currently deepening my knowledge in **Causal Inference** and **Azure Data Engineering**
+- 🏦 Based in **Lisbon, Portugal** · Originally from São Paulo, Brazil
+
+---
+
+## Tech stack
+
+**Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query%20M-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel%20%26%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Data & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Cloud & Tools**
+
+![Azure](https://img.shields.io/badge/Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logoColor=white)
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [PL-300 · Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/arimatasilvajr/credentials/a10f54b5b5c40882) | Microsoft | 2024 |
+| [DP-900 · Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/arimatasilvajr/credentials/14e8979325318162) | Microsoft | 2025 |
+| [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/M5JZ225TQEGQ) | Google / Coursera | 2023 |
+| [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0016048439967) | DataCamp | 2022 |
+| [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0019231958818) | DataCamp | 2022 |
+| Black Belt · Lean Six Sigma | FCAV | 2022 |
+
+---
+
+## Featured projects
+
+> Portfolio in active development — projects being added regularly.
+
+| Project | Description | Tools |
+|---|---|---|
+| 🔜 HR Headcount & Attrition Dashboard | Monitor workforce metrics, attrition trends, and year-end projections | Power BI · DAX |
+| 🔜 Financial Cost Analysis & Variance Report | Budget vs actual by cost center with YoY drill-through | Power BI · DAX · SQL |
+| 🔜 Capex Portfolio Tracker | Investment portfolio management dashboard with SQL backend | Power BI · SQLite · Python |
+| 🔜 IT Service Desk Analytics | SLA compliance and ticket resolution time analysis | Power BI · Python · pandas |
+| 🔜 Excel VBA Automation Toolkit | Reusable macros for report consolidation and PDF export | Excel · VBA |
+| 🔜 EDA · Manufacturing & Finance Dataset | Exploratory data analysis with Python | Python · pandas · seaborn |
+
+---
+
+## Experience highlights
+
+```
+BNP Paribas Securities Services   Team Leader – Operations Performance Reporting   2024 – 2026
+  └─ Managed 400+ active reports · Led technical audit · Power BI & VBA support
+
+BNP Paribas (via Devoteam)        IT Consultant – Management Support               2023 – 2024
+  └─ Headcount dashboard (2,100+ employees) · Cost center BI · Allocation automation
+
+Prime IT                          IT Consultant – PMO & Process Improvement         2023 – 2024
+  └─ Siemens Zero Trust KPI reporting · 27% reduction in ticket resolution time
+
+Novelis – Aluminium Industry      Portfolio Manager – Project & Investment Eng.     2019 – 2023
+  └─ Capex Power BI dashboard (SQL) · USD 30M sustainability portfolio management
+```
+
+---
+
+<div align="center">
+
+*Open to Data Analyst and Power BI Developer opportunities in Lisbon and remote.*
+
+</div>
