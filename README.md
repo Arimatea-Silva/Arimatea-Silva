@@ -17,7 +17,7 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 
 - 📊 Specialized in **Power BI**, **DAX**, **Power Query M**, and **Excel VBA**
 - 🎯 Focused on solutions that drive operational efficiency and support executive decision-making
-- 🌱 Currently deepening my knowledge in **Causal Inference** and **Azure Data Engineering**
+- 🌱 Currently building hands-on expertise in **Microsoft Fabric** — Medallion Architecture, Lakehouse, PySpark, and end-to-end cloud data pipelines
 - 🏦 Based in **Lisbon, Portugal** · Originally from São Paulo, Brazil
 
 ---
@@ -28,22 +28,27 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query%20M-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel%20%26%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black)
+![M Language](https://img.shields.io/badge/Language%20M-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Data & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Cloud & Tools**
 
-![Azure](https://img.shields.io/badge/Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
 
 ---
 
@@ -53,26 +58,21 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 |---|---|---|
 | [PL-300 · Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/arimatasilvajr/credentials/a10f54b5b5c40882) | Microsoft | 2024 |
 | [DP-900 · Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/arimatasilvajr/credentials/14e8979325318162) | Microsoft | 2025 |
-| [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/M5JZ225TQEGQ) | Google / Coursera | 2023 |
+| [Microsoft Data Analysis](https://www.linkedin.com/learning/certificates/354d057da2a1427441a867277c8ca1e3df555d234d9a87d438026506c05981e7) | Microsoft / LinkedIn Learning | 2025 |
+| [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/M5JZ225TQEGQ) | Google / Coursera | 2023 |
 | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0016048439967) | DataCamp | 2022 |
 | [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0019231958818) | DataCamp | 2022 |
-| Black Belt · Lean Six Sigma | FCAV | 2022 |
 
 ---
 
 ## Featured projects
 
-> Portfolio in active development — projects being added regularly.
-
 | Project | Description | Tools |
 |---|---|---|
-| 🔜 HR Headcount & Attrition Dashboard | Monitor workforce metrics, attrition trends, and year-end projections | Power BI · DAX |
-| 🔜 Financial Cost Analysis & Variance Report | Budget vs actual by cost center with YoY drill-through | Power BI · DAX · SQL |
-| 🔜 Capex Portfolio Tracker | Investment portfolio management dashboard with SQL backend | Power BI · SQLite · Python |
-| 🔜 IT Service Desk Analytics | SLA compliance and ticket resolution time analysis | Power BI · Python · pandas |
-| 🔜 Excel VBA Automation Toolkit | Reusable macros for report consolidation and PDF export | Excel · VBA |
-| 🔜 EDA · Manufacturing & Finance Dataset | Exploratory data analysis with Python | Python · pandas · seaborn |
-
+| [🏙️ NYC Taxi Analytics · Microsoft Fabric](https://github.com/Arimatea-Silva/fabric-nyc-taxi-analytics) | End-to-end Medallion architecture (Bronze/Silver/Gold) using NYC Yellow Taxi TLC data — Lakehouse ingestion, PySpark transformations, and Power BI reporting | Microsoft Fabric · PySpark · Power BI |
+| [🐍 Python Financial Analysis](https://github.com/Arimatea-Silva/python-financial-analysis) | Python analysis of major European banks — stock data, returns, volatility, and correlation using pandas, matplotlib, and seaborn | Python · pandas · seaborn |
+| [🗄️ SQL European Labour Analytics](https://github.com/Arimatea-Silva/sql-european-labour-analytics) | PostgreSQL analytics project using European labour market data from World Bank API with CTEs, window functions, views, and stored procedures | PostgreSQL · Python |
+| [📊 Power BI HR Dashboard](https://github.com/Arimatea-Silva/powerbi-hr-dashboard) | Power BI dashboard tracking headcount, attrition trends, and year-end workforce projections | Power BI · DAX |
 ---
 
 ## Experience highlights
