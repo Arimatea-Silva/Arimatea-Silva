@@ -17,7 +17,7 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 
 - 📊 Specialized in **Power BI**, **DAX**, **Power Query M**, and **Excel VBA**
 - 🎯 Focused on solutions that drive operational efficiency and support executive decision-making
-- 🌱 Currently building hands-on expertise in **Microsoft Fabric** — Medallion Architecture, Lakehouse, PySpark, and end-to-end cloud data pipelines
+- 🌱 Currently building hands-on expertise in **Microsoft Fabric** — Warehouse, Lakehouse and PySpark
 - 🏦 Based in **Lisbon, Portugal** · Originally from São Paulo, Brazil
 
 ---
@@ -62,7 +62,7 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 | [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/M5JZ225TQEGQ) | Google / Coursera | 2023 |
 | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0016048439967) | DataCamp | 2022 |
 | [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0019231958818) | DataCamp | 2022 |
-
+| [Black Belt and Lean Six Sigma](https://fcavcert.org.br/valid_ecp/certificado.asp?D65862A0D8608F457DB4959FF97C2185) | FCAV | 2022 |
 ---
 
 ## Featured projects
