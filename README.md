@@ -37,6 +37,8 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Cloud & Tools**
@@ -63,6 +65,7 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0016048439967) | DataCamp | 2022 |
 | [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0019231958818) | DataCamp | 2022 |
 | [Black Belt and Lean Six Sigma](https://fcavcert.org.br/valid_ecp/certificado.asp?D65862A0D8608F457DB4959FF97C2185) | FCAV | 2022 |
+
 ---
 
 ## Featured projects
@@ -73,22 +76,25 @@ IT Consultant and Data Analyst with 6+ years of experience delivering Business I
 | [🐍 Python Financial Analysis](https://github.com/Arimatea-Silva/python-financial-analysis) | Python analysis of major European banks — stock data, returns, volatility, and correlation using pandas, matplotlib, and seaborn | Python · pandas · seaborn |
 | [🗄️ SQL European Labour Analytics](https://github.com/Arimatea-Silva/sql-european-labour-analytics) | PostgreSQL analytics project using European labour market data from World Bank API with CTEs, window functions, views, and stored procedures | PostgreSQL · Python |
 | [📊 Power BI HR Dashboard](https://github.com/Arimatea-Silva/powerbi-hr-dashboard) | Power BI dashboard tracking headcount, attrition trends, and year-end workforce projections | Power BI · DAX |
+| [🔄 BI Pipeline · Capex ETL](https://github.com/Arimatea-Silva/bi-pipeline) | Production-style ETL pipeline that extracts Capex project data from PostgreSQL, validates data quality, computes KPIs (budget variance, risk flags, RAG portfolio health), and loads results to PostgreSQL and a formatted Excel workbook | Python · pandas · SQLAlchemy · PostgreSQL · XlsxWriter |
+
 ---
 
 ## Experience highlights
 
 ```
-BNP Paribas Securities Services   Team Leader – Operations Performance Reporting   2024 – 2026
+BNP Paribas Securities Services    Team Leader – Operations Performance Reporting   2024 – 2026
   └─ Managed 400+ active reports · Led technical audit · Power BI & VBA support
 
-BNP Paribas (via Devoteam)        IT Consultant – Management Support               2023 – 2024
+Devoteam allocated in BNP Paribas  IT Consultant – Management Support               2023 – 2024
   └─ Headcount dashboard (2,100+ employees) · Cost center BI · Allocation automation
 
 Prime IT                          IT Consultant – PMO & Process Improvement         2023 – 2024
-  └─ Siemens Zero Trust KPI reporting · 27% reduction in ticket resolution time
+  └─ Siemens · Zero Trust KPI reporting Dashboard 
+  └─ EMPR · 27% reduction in ticket resolution time
 
 Novelis – Aluminium Industry      Portfolio Manager – Project & Investment Eng.     2019 – 2023
-  └─ Capex Power BI dashboard (SQL) · USD 30M sustainability portfolio management
+  └─ Capex Power BI dashboard · USD 30M sustainability portfolio management
 ```
 
 ---
